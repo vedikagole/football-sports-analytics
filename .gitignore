@@ -6,5 +6,4 @@ venv/
 .streamlit/secrets.toml
 .vscode/
 .idea/
-football.mp4
 yolov8n.pt
